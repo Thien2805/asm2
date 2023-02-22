@@ -10,6 +10,7 @@
 }
 img{
     width: 100%;
+    margin: 10px;
 }
 .menu div{
     display: inline;
@@ -19,7 +20,7 @@ img{
 }
 .row{
     display: grid;
-    grid-template-columns: 33% 33% 30.3%;
+    grid-template-columns: 33% 33% 31.7%;
 
 }
 .row div{
